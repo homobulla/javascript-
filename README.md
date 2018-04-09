@@ -6,5 +6,8 @@
 - [event loop](https://github.com/homobulla/javascript-/issues/2)
 - [预编译](https://github.com/homobulla/javascript-/issues/3)
 - [跨域](https://github.com/homobulla/javascript-/issues/4)
+- [debounce/throttle](https://github.com/homobulla/javascript-/issues/5)
+- [从浏览器多进程到js单线程](https://github.com/homobulla/javascript-/issues/6)
+
 
 
