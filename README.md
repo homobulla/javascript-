@@ -8,6 +8,8 @@
 - [跨域](https://github.com/homobulla/javascript-/issues/4)
 - [debounce/throttle](https://github.com/homobulla/javascript-/issues/5)
 - [从浏览器多进程到js单线程](https://github.com/homobulla/javascript-/issues/6)
+- [缓存优化机制](https://github.com/homobulla/javascript-/issues/7)
+
 
 
 
