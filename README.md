@@ -1,5 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Note
+
   一些在JavaScript中存疑的概念性问题
+
+## book
+
+你不知道的`javascript`;
+
+- [作用域是什么](./你不知道的javascript/作用域是什么.md)
 
 ## Article
 - [web worker:H5多线程](https://github.com/homobulla/javascript-/issues/1)；
